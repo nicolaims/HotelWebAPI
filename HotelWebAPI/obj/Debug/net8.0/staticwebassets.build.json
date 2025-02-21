@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "v1PZaxaPWTKMr6CcsDnWn+KJcSJSfVKGt6dZtPFA8oo=",
+  "Hash": "ra2EUL3ySqzNgylQPJT2Ofwr1GJ1oHXyAkjBO9fiCn0=",
   "Source": "HotelWebAPI",
   "BasePath": "_content/HotelWebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="410f0f40-24a8-4af9-8bbf-bb4b1916567c" name="NicolaiMalteSchmidt@IBM-PF32QWPP 2025-02-21 10:05:41" runUser="AzureAD\NicolaiMalteSchmidt" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-02-21T10:05:41.2210696+01:00" queuing="2025-02-21T10:05:41.2210700+01:00" start="2025-02-21T10:05:39.8281387+01:00" finish="2025-02-21T10:05:41.2563345+01:00" />
+  <TestSettings name="default" id="12163894-1d51-4642-91a0-56bb723206ee">
+    <Deployment runDeploymentRoot="NicolaiMalteSchmidt_IBM-PF32QWPP_2025-02-21_10_05_41" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="dd7085a7-1ecd-4f59-8b87-f760936df59c" testId="e0f109d7-1042-21c0-c76c-53bb0419e0df" testName="Remove_NotExistingIdPassed_ReturnsNotFoundResponse" computerName="IBM-PF32QWPP" duration="00:00:00.0000461" startTime="2025-02-21T10:05:41.0861562+01:00" endTime="2025-02-21T10:05:41.0862729+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd7085a7-1ecd-4f59-8b87-f760936df59c" />
+    <UnitTestResult executionId="d68ff1a6-1952-41ac-a61f-0c9449afdafb" testId="c2f831ee-51ef-740b-a3fc-6b25ffdd88c8" testName="Add_ValidObjectPassed_ReturnsCreatedResponse" computerName="IBM-PF32QWPP" duration="00:00:00.0000367" startTime="2025-02-21T10:05:41.0858936+01:00" endTime="2025-02-21T10:05:41.0859915+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d68ff1a6-1952-41ac-a61f-0c9449afdafb" />
+    <UnitTestResult executionId="c448f5d8-8ded-4d15-bfd7-0f73cf31ea79" testId="db7355f5-f290-1346-8204-caa2cd562706" testName="GetById_UnknownIdPassed_ReturnsNotFoundResult" computerName="IBM-PF32QWPP" duration="00:00:00.0000519" startTime="2025-02-21T10:05:41.0852963+01:00" endTime="2025-02-21T10:05:41.0854680+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c448f5d8-8ded-4d15-bfd7-0f73cf31ea79" />
+    <UnitTestResult executionId="b7552de1-cbb7-495e-b990-ed1468d391f0" testId="e553231c-890c-c56c-348a-e2242f0b9479" testName="GetById_ExistingIdPassed_ReturnsRightHotel" computerName="IBM-PF32QWPP" duration="00:00:00.0000380" startTime="2025-02-21T10:05:41.0856430+01:00" endTime="2025-02-21T10:05:41.0857452+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b7552de1-cbb7-495e-b990-ed1468d391f0" />
+    <UnitTestResult executionId="d5633dfa-9ad8-4e14-a53d-831c91d60a42" testId="d95cc4ec-987e-99ad-a1b2-0d806d7ff498" testName="Add_ValidObjectPassed_ReturnedResponseHasCreatedItem" computerName="IBM-PF32QWPP" duration="00:00:00.0000392" startTime="2025-02-21T10:05:41.0860189+01:00" endTime="2025-02-21T10:05:41.0861255+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d5633dfa-9ad8-4e14-a53d-831c91d60a42" />
+    <UnitTestResult executionId="2391a630-3cce-4cff-ba64-a984552f235b" testId="e0545a57-9c98-2501-f053-3191ba6401ec" testName="Get_WhenCalled_ReturnsAllHotels" computerName="IBM-PF32QWPP" duration="00:00:00.0002324" startTime="2025-02-21T10:05:41.0842802+01:00" endTime="2025-02-21T10:05:41.0849107+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2391a630-3cce-4cff-ba64-a984552f235b" />
+    <UnitTestResult executionId="8cfff59f-8e4c-4ad3-8ec2-5582f4544b57" testId="cd9ebe87-71af-ada2-906d-376dad9436a7" testName="Add_InvalidObjectPassed_ReturnsBadRequest" computerName="IBM-PF32QWPP" duration="00:00:00.0000359" startTime="2025-02-21T10:05:41.0857672+01:00" endTime="2025-02-21T10:05:41.0858713+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cfff59f-8e4c-4ad3-8ec2-5582f4544b57" />
+    <UnitTestResult executionId="0b6b42e2-35d0-422f-bbfd-f2caec00b3d6" testId="1b786346-bf1c-2b2b-3e80-f4e7b775b5d6" testName="GetById_ExistingIdPassed_ReturnsOkResult" computerName="IBM-PF32QWPP" duration="00:00:00.0000418" startTime="2025-02-21T10:05:41.0855096+01:00" endTime="2025-02-21T10:05:41.0856194+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b6b42e2-35d0-422f-bbfd-f2caec00b3d6" />
+    <UnitTestResult executionId="3ac804ab-6afc-4bec-9ca4-2b4095b60074" testId="c1e9b097-73ac-23b5-3cd9-f7b12be4b04d" testName="Remove_ExistingIdPassed_ReturnsNoContentResult" computerName="IBM-PF32QWPP" duration="00:00:00.0000737" startTime="2025-02-21T10:05:41.1395155+01:00" endTime="2025-02-21T10:05:41.1412767+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ac804ab-6afc-4bec-9ca4-2b4095b60074" />
+    <UnitTestResult executionId="c8c7d531-baa4-4321-8c6c-ad034564baa1" testId="8162eb8e-09a8-1d3b-5bb7-810d4a1be084" testName="Get_WhenCalled_ReturnsOkResult" computerName="IBM-PF32QWPP" duration="00:00:00.1402273" startTime="2025-02-21T10:05:40.9217165+01:00" endTime="2025-02-21T10:05:41.0786544+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8c7d531-baa4-4321-8c6c-ad034564baa1" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="GetById_UnknownIdPassed_ReturnsNotFoundResult" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="db7355f5-f290-1346-8204-caa2cd562706">
+      <Execution id="c448f5d8-8ded-4d15-bfd7-0f73cf31ea79" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="GetById_UnknownIdPassed_ReturnsNotFoundResult" />
+    </UnitTest>
+    <UnitTest name="GetById_ExistingIdPassed_ReturnsOkResult" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="1b786346-bf1c-2b2b-3e80-f4e7b775b5d6">
+      <Execution id="0b6b42e2-35d0-422f-bbfd-f2caec00b3d6" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="GetById_ExistingIdPassed_ReturnsOkResult" />
+    </UnitTest>
+    <UnitTest name="Remove_ExistingIdPassed_ReturnsNoContentResult" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="c1e9b097-73ac-23b5-3cd9-f7b12be4b04d">
+      <Execution id="3ac804ab-6afc-4bec-9ca4-2b4095b60074" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Remove_ExistingIdPassed_ReturnsNoContentResult" />
+    </UnitTest>
+    <UnitTest name="GetById_ExistingIdPassed_ReturnsRightHotel" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="e553231c-890c-c56c-348a-e2242f0b9479">
+      <Execution id="b7552de1-cbb7-495e-b990-ed1468d391f0" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="GetById_ExistingIdPassed_ReturnsRightHotel" />
+    </UnitTest>
+    <UnitTest name="Get_WhenCalled_ReturnsAllHotels" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="e0545a57-9c98-2501-f053-3191ba6401ec">
+      <Execution id="2391a630-3cce-4cff-ba64-a984552f235b" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Get_WhenCalled_ReturnsAllHotels" />
+    </UnitTest>
+    <UnitTest name="Get_WhenCalled_ReturnsOkResult" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="8162eb8e-09a8-1d3b-5bb7-810d4a1be084">
+      <Execution id="c8c7d531-baa4-4321-8c6c-ad034564baa1" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Get_WhenCalled_ReturnsOkResult" />
+    </UnitTest>
+    <UnitTest name="Add_ValidObjectPassed_ReturnedResponseHasCreatedItem" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="d95cc4ec-987e-99ad-a1b2-0d806d7ff498">
+      <Execution id="d5633dfa-9ad8-4e14-a53d-831c91d60a42" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Add_ValidObjectPassed_ReturnedResponseHasCreatedItem" />
+    </UnitTest>
+    <UnitTest name="Add_ValidObjectPassed_ReturnsCreatedResponse" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="c2f831ee-51ef-740b-a3fc-6b25ffdd88c8">
+      <Execution id="d68ff1a6-1952-41ac-a61f-0c9449afdafb" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Add_ValidObjectPassed_ReturnsCreatedResponse" />
+    </UnitTest>
+    <UnitTest name="Remove_NotExistingIdPassed_ReturnsNotFoundResponse" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="e0f109d7-1042-21c0-c76c-53bb0419e0df">
+      <Execution id="dd7085a7-1ecd-4f59-8b87-f760936df59c" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Remove_NotExistingIdPassed_ReturnsNotFoundResponse" />
+    </UnitTest>
+    <UnitTest name="Add_InvalidObjectPassed_ReturnsBadRequest" storage="c:\users\nicolaimalteschmidt\source\repos\hotelwebapi\hotelwebapi\testhotelcontroller\bin\debug\net8.0\testhotelcontroller.dll" id="cd9ebe87-71af-ada2-906d-376dad9436a7">
+      <Execution id="8cfff59f-8e4c-4ad3-8ec2-5582f4544b57" />
+      <TestMethod codeBase="C:\Users\NicolaiMalteSchmidt\source\repos\HotelWebAPI\HotelWebAPI\TestHotelController\bin\Debug\net8.0\TestHotelController.dll" adapterTypeName="executor://mstestadapter/v2" className="TestHotelController.HotelControllerTest" name="Add_InvalidObjectPassed_ReturnsBadRequest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="e0f109d7-1042-21c0-c76c-53bb0419e0df" executionId="dd7085a7-1ecd-4f59-8b87-f760936df59c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c2f831ee-51ef-740b-a3fc-6b25ffdd88c8" executionId="d68ff1a6-1952-41ac-a61f-0c9449afdafb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="db7355f5-f290-1346-8204-caa2cd562706" executionId="c448f5d8-8ded-4d15-bfd7-0f73cf31ea79" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e553231c-890c-c56c-348a-e2242f0b9479" executionId="b7552de1-cbb7-495e-b990-ed1468d391f0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d95cc4ec-987e-99ad-a1b2-0d806d7ff498" executionId="d5633dfa-9ad8-4e14-a53d-831c91d60a42" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0545a57-9c98-2501-f053-3191ba6401ec" executionId="2391a630-3cce-4cff-ba64-a984552f235b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd9ebe87-71af-ada2-906d-376dad9436a7" executionId="8cfff59f-8e4c-4ad3-8ec2-5582f4544b57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b786346-bf1c-2b2b-3e80-f4e7b775b5d6" executionId="0b6b42e2-35d0-422f-bbfd-f2caec00b3d6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1e9b097-73ac-23b5-3cd9-f7b12be4b04d" executionId="3ac804ab-6afc-4bec-9ca4-2b4095b60074" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8162eb8e-09a8-1d3b-5bb7-810d4a1be084" executionId="c8c7d531-baa4-4321-8c6c-ad034564baa1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
