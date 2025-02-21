@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\data\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\data\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5973F8E-4655-438C-A6D8-68B591ED3E81}|TestHotelController\\TestHotelController.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\testhotelcontroller\\hotelcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5973F8E-4655-438C-A6D8-68B591ED3E81}|TestHotelController\\TestHotelController.csproj|solutionrelative:testhotelcontroller\\hotelcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|c:\\users\\moal\\source\\repos\\hotelwebapi\\hotelwebapi\\data\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D751239A-9B52-4BC4-996C-94374ED66255}|HotelWebAPI\\HotelWebAPI.csproj|solutionrelative:hotelwebapi\\data\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\TestHotelController\\HotelControllerTest.cs",
+              "RelativeDocumentMoniker": "TestHotelController\\HotelControllerTest.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\TestHotelController\\HotelControllerTest.cs",
+              "RelativeToolTip": "TestHotelController\\HotelControllerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:01:20.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Program.cs",
+              "RelativeToolTip": "HotelWebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:57:37.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "HotelWebAPI\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:55:28.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "HotelWebAPI\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:44:01.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Data\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Data\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Data\\HotelRepository.cs",
+              "RelativeToolTip": "HotelWebAPI\\Data\\HotelRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:24:39.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "HotelWebAPI\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:25:54.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Interfaces\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Interfaces\\IHotelRepository.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Interfaces\\IHotelRepository.cs",
+              "RelativeToolTip": "HotelWebAPI\\Interfaces\\IHotelRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:25:33.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Models\\Room.cs",
+              "RelativeToolTip": "HotelWebAPI\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:26:09.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Models\\Hotel.cs",
+              "RelativeToolTip": "HotelWebAPI\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:26:42.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Data\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "HotelWebAPI\\Data\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\moal\\source\\repos\\HotelWebAPI\\HotelWebAPI\\Data\\RoomRepository.cs",
+              "RelativeToolTip": "HotelWebAPI\\Data\\RoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:24:57.161Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 455,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
